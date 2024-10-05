@@ -41,7 +41,7 @@ To set up the project locally:
    ```
 2. Navigate to the project directory:
    ```bash
-   cd jk-travels
+   cd website-1
    ```
 3. Open `index.html` in your browser to view the website.
 
